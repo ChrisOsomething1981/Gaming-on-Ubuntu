@@ -7,7 +7,7 @@ Prerequisites:
 * A system running Ubuntu 23.10
 * Basic understanding of the terminal (command line) is helpful
 
-Getting Started:
+## Getting Started:
 
 Update and Upgrade:
 
@@ -18,7 +18,7 @@ sudo apt update && sudo apt upgrade
 ```
 Enter your password when prompted.
 
-Install Additional Software:
+## Install Additional Software:
 
 Several applications can enhance your gaming experience. Here are some popular choices:
 
