@@ -1,5 +1,5 @@
 # Gaming-on-Ubuntu
-
+You don't need Windows for gaming any more. Ubuntu comes with graphics drivers. Steam has Steam Play and Lutris has a huge library of install scripts, so everything is handled for you. The one thing you will need to do occasionally is experiment with different Wine distributions.
 This guide provides an overview of setting up your Ubuntu 23.10 system for a smooth gaming experience.
 
 Prerequisites:
